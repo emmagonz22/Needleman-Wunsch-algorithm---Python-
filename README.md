@@ -1,4 +1,4 @@
-# Needleman-Wunsch-algorithm---Python
+# Needleman-Wunsch-algorithm-Python
 
 Requirements: 
 The Goal of project one is to implement your own Needleman-Wunsch algorithm using Dynamic Programming.
