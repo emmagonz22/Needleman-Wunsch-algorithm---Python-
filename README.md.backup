@@ -1,8 +1,8 @@
 # Needleman-Wunsch-algorithm-Python
 
+'''
 
-
->Requirements: 
+Requirements: 
 The Goal of project one is to implement your own Needleman-Wunsch algorithm using Dynamic Programming.
     As a scoring matrix, the algorithm must use the following:
         Reward on a match: 1
@@ -14,9 +14,12 @@ The input file will be a comma separated (csv) file with the following format
 
 
 
-## Use of pandas and numpy library to process the data of the cvs file
+# Use of pandas and numpy library to process the data of the cvs file
 
-#### Dependency require 
+### Dependency require 
     pip3 install pandas
     pip3 install numpy 
+
+
+
 
