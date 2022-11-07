@@ -18,5 +18,4 @@ The input file will be a comma separated (csv) file with the following format
 
 #### Dependency require 
     pip3 install pandas
-    pip3 install numpy 
 
