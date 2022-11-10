@@ -14,8 +14,6 @@ The input file will be a comma separated (csv) file with the following format
 
 
 
-## Use of pandas and numpy library to process the data of the cvs file
+## Use of csv library to process the data of the cvs file
 
-#### Dependency require 
-    pip3 install pandas
 
